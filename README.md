@@ -19,7 +19,9 @@ This is a simple web page made by using HTML and CSS only. This project is made 
 In this project I have learned about 
 - CSS Positions mainly  about absolute position and relative position. 
 - CSS Selectors basics 
+## Live Link
 
+[Digital Marketing Homepage](https://digital-marketing-souritaray.netlify.app/)
 
 ## Time required to complete the project
 
